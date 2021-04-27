@@ -1,0 +1,34 @@
+.table thead th {
+    /* vertical-align: bottom; */
+    /* border-bottom: 2px solid #dee2e6; */
+    border: none;
+    font-size: 18px;
+    font-family: Oswald;
+    font-size: 19px;
+    color: #8e8b86;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 4rem;
+    color: #0b151f;
+    border-collapse: separate;
+    border-spacing: 0 1em;
+}
+
+tbody tr{
+    color: rgb(240, 240, 240) !important;
+}
+
+tbody tr {
+    background-color: #f2f9ff;
+    border: none;
+    border-top: none;
+    margin: 12px;
+}
+
+.logo_img{
+    width:30px;
+    height: 30px;
+    border-radius: 15px;
+}
